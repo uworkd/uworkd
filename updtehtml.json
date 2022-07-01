@@ -1,0 +1,24 @@
+{
+    "Ads": {
+        "show_ads": true,
+        "bannerAd": "max",
+        "InterAd": "admob",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"unityTest": true,
+        "unityGameID": "3883855",
+		"unityBanner": "banner",
+		"unityInter": "video",
+        "max_banner": "6db1491f2e21970c",
+        "max_inter": "812b82d9e0c7cb7f",
+        "CPAImg": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "CPAUrl": "https://www.google.com",
+        "intersitial_click_activites": 1,
+        "intersitial_click_list": 3,
+		"more_app": "",
+		"privacy": "",
+		"rate_us": ""
+    }
+}

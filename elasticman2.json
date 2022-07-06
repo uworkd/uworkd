@@ -1,6 +1,6 @@
 {
     "Ads": {
-        "show_ads": false,
+        "show_ads": true,
         "bannerAd": "cpa",
         "InterAd": "unity",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -13,7 +13,7 @@
 		"unityInter": "video",
         "max_banner": "6db1491f2e21970c",
         "max_inter": "812b82d9e0c7cb7f",
-        "CPAImg": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "CPAImg": "https://i.ibb.co/TbzgMN0/Untitled-480-75-px.gif",
         "CPAUrl": "https://www.google.com",
         "intersitial_click_activites": 1,
         "intersitial_click_list": 3,
